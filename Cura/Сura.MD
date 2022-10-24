@@ -1,12 +1,12 @@
 # Добавление принтера Picaso X/X Pro в Cura
 
-В зависимости от версии Cura, архив Ultimaker **Cura_PicasoX.zip** распаковать в соотвествующую папку (указаны пути установки Cura по-умолчанию):
+В зависимости от версии Cura, содержимое папки resources из архива Ultimaker **Cura_PicasoX.zip** распаковать в соотвествующую папку (указаны пути установки Cura по-умолчанию):
 
 **Cura 5.x:**
 C:\Program Files\Ultimaker Cura 5.x\share\cura\resources\
 
 **Cura 4.x:**
-C:\Program Files\Ultimaker Cura 4.10
+C:\Program Files\Ultimaker Cura 4.10\resources\
 
 Запустить Cura и в списке доступных принтеров появится Picaso/Designer XPro.
 
