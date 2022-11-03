@@ -17,7 +17,7 @@ https://fillamentum.com/pages/drying-filaments-before-processing/
 Рекомендации по сушке пластиков от иностранных производителей:
 
 
-https://filaments.ensingerplastics.com/collections/pc/products/tecafil-pc-fr-natural-1-75-mm-750g
+https://filaments.ensingerplastics.com/
 
 
-https://us.polymaker.com/products/polydissolve-s1
+https://us.polymaker.com/products
