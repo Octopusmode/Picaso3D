@@ -5,8 +5,7 @@
 + **eSun** Греет еле-еле, может 40 градусов максимум при заявленных 70.
 Еë люди дорабатывают, вынося датчик температуры в холодную зону. Рядом с нагревателем жарко, а далеко - холодно, соответственно нагреватель будет жарить сильнее.
 
-+ **Сушильные шкафы ШС** https://www.nv-lab.ru/catalog_info.php?ID=2790
-https://sktb-spu.ru/katalog/shkafy-sushilnye/shkafy-sushilnye-s-prinuditelnoj-konvekcziej/
++ **Сушильные шкафы ШС** https://sktb-spu.ru/katalog/shkafy-sushilnye/shkafy-sushilnye-s-prinuditelnoj-konvekcziej/
 
 Полезные ссылки о сушке пластика:
 
@@ -16,8 +15,6 @@ https://fillamentum.com/pages/drying-filaments-before-processing/
 
 Рекомендации по сушке пластиков от иностранных производителей:
 
-
 https://filaments.ensingerplastics.com/
-
 
 https://us.polymaker.com/products
