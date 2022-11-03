@@ -2,11 +2,22 @@
 
 + **GFgril GFD-00** Дегидратор (сушилка) для овощей и фруктов. Мощность 500 Вт. Конвекционный способ нагрева, температура до 70 градусов. В качестве сушилки для пластика самое то. А по цене от S2 отличается, но зато результат. Для неё берём крышку для СВЧ (продаётся в Фикспрайсе) и можно сушить пластик.
 
-+ **eSun**. Греет еле-еле, может 40 градусов максимум при заявленных 70.
++ **eSun** Греет еле-еле, может 40 градусов максимум при заявленных 70.
 Еë люди дорабатывают, вынося датчик температуры в холодную зону. Рядом с нагревателем жарко, а далеко - холодно, соответственно нагреватель будет жарить сильнее.
 
 + **Сушильные шкафы ШС** https://www.nv-lab.ru/catalog_info.php?ID=2790
+https://sktb-spu.ru/katalog/shkafy-sushilnye/shkafy-sushilnye-s-prinuditelnoj-konvekcziej/
 
 Полезные ссылки о сушке пластика:
 
 https://rec3d.ru/rec-wiki/sushka-plastika/
+
+https://fillamentum.com/pages/drying-filaments-before-processing/
+
+Рекомендации по сушке пластиков от иностранных производителей:
+
+
+https://filaments.ensingerplastics.com/collections/pc/products/tecafil-pc-fr-natural-1-75-mm-750g
+
+
+https://us.polymaker.com/products/polydissolve-s1
