@@ -18,3 +18,6 @@ C:\Program Files\Ultimaker Cura 4.10\resources\
 *Для X* 
 Указать количество экструдеров (extruder count) = 1
 ![Добавление принтера](./img/cura_extruders_count.png)
+
+
+Инструкция по использованию сторонних слайсеров (в том числе Cura) в Центре поддержки: http://helpcenter.picaso-3d.ru/we-answer
