@@ -18,3 +18,24 @@ https://fillamentum.com/pages/drying-filaments-before-processing/
 https://filaments.ensingerplastics.com/
 
 https://us.polymaker.com/products
+
+![Режимы_сушки](./img/Режимы_сушки.jpg)
+
+
+![Режимы_сушки_REC](./img/Режимы_сушки_REC.jpg)
+
+
+Marta MT-1871
+
+![Marta_MT_1871](./img/Marta_MT_1871.jpg)
+
+
+ШС-10-02 СПУ
+
+![ШС_10_02_СПУ_0](./img/ШС_10_02_СПУ_0.jpg)
+![ШС_10_02_СПУ_1](./img/ШС_10_02_СПУ_1.jpg)
+
+ШС-80-02 СПУ
+
+![ШС_80_02](./img/ШС_80_02.jpg)
+
