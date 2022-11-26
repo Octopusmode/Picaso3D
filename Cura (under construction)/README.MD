@@ -12,30 +12,34 @@ C:\Program Files\Ultimaker Cura 4.10\resources\
 
 ![Добавление принтера](./img/cura_select_printer.png)
 
-*Для X Pro:*
-
 В поле "Начальный G-код для экструдера", чтобы после переключения сопел активное сопло прочищалось в специальном очистителе, необходимо прописать:
 
-*Extruder 1 Start G-code (для первого или единственного экструдера):
-T10 I5 S1 R1 P1
+*Extruder 1 Start G-code (для первого или единственного экструдера):*
 
-Extruder 2 Start G-code (для второго экструдера):
-T11 I5 S1 R1 P1*
+*T10 I5 S1 R1 P1*
+
+*Extruder 2 Start G-code (для второго экструдера):*
+
+*T11 I5 S1 R1 P1*
 
 ![cura_extruder_1](./img/cura_extruder_1.png)
 
-
 ![cura_extruder_2](./img/cura_extruder_2.png)
-
 
 Для очистки сопел возможно использовать черновую башню, а не сопливчики: для этого в настройках принтера включить "быстрое переключение сопел".
 
-*Для X* 
-Изменить количество экструдеров (extruder count) = 1
+Для Designer X необходимо изменить количество экструдеров (extruder count) = 1
 
 ![Добавление принтера](./img/cura_extruders_count.png)
 
 Икс-серия сама всё умеет делать и при печати G-кода принтер выполняет зашитый в прошивку обязательный код перед печатью и после печати.
 
+Для корректной работы системы контроля подачи пластика добавьте специальный скрипт. Для этого в меню *Extensions > Post processing > Modify G-code* нажмите *“Add a script”* и выберите *Search and Replace*. Впишите следующие скрипты:
 
-Инструкция по использованию сторонних слайсеров (Cura, PrusaSlicer) для принтеров Designer Classic, X, XPro, XL, XLPro в Центре поддержки: http://helpcenter.picaso-3d.ru/we-answer
+*Search:*
+*;LAYER:*
+
+*Replace:*
+*M532 X0 L*
+
+Дополнительная информация и инструкция по использованию сторонних слайсеров (Cura, PrusaSlicer) для принтеров Designer Classic, X, XPro, XL, XLPro в Центре поддержки: http://helpcenter.picaso-3d.ru/we-answer
