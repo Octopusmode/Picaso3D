@@ -42,4 +42,6 @@ C:\Program Files\Ultimaker Cura 4.10\resources\
 *Replace:*
 *M532 X0 L*
 
+![cura_script_0](./img/cura_script_0.png)
+
 Дополнительная информация и инструкция по использованию сторонних слайсеров (Cura, PrusaSlicer) для принтеров Designer Classic, X, XPro, XL, XLPro в Центре поддержки: http://helpcenter.picaso-3d.ru/we-answer
