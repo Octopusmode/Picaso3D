@@ -28,15 +28,3 @@ https://sl.aliexpress.ru/p?key=gGwexSX
 + https://aliexpress.ru/item/32888955522.html
 
 + https://aliexpress.ru/item/32915024956.html
-
-PRO250_Драйвер_IXDN604SIA
-
-![PRO250_Драйвер_IXDN604SIA](./img/PRO250_Драйвер_IXDN604SIA.jpg)
-
-XPRO_Мотор_охлаждения_детали.jpg
-
-![XPRO_Мотор_охлаждения_детали](./img/XPRO_Мотор_охлаждения_детали.jpg)
-
-XPRO_Транзистор_нагрева_сопла
-
-![XPRO_Транзистор_нагрева_сопла](./img/XPRO_Транзистор_нагрева_сопла.jpg)
