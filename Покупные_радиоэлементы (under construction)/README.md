@@ -1,4 +1,5 @@
 # Покупные радиоэлементы для ремонта принтеров Picasa
+---
 
 1. IWISS IWS-3220 460PCS Crimping Pliers Mini Crimper Tool for JST DuPont Terminal Narrow-pitch Connector Pins 0.08-0.5mm²AWG 32-20
 
@@ -15,18 +16,18 @@ https://sl.aliexpress.ru/p?key=gGwexSX
 
 6. Тефлоновая трубка 1 метр
 
-6.1 https://a.aliexpress.com/_A3iYtX
-6.2 https://aliexpress.ru/item/1005001661430005.html
++ https://a.aliexpress.com/_A3iYtX
++ https://aliexpress.ru/item/1005001661430005.html
 
 7. Муфты:
 
-7.1. https://aliexpress.ru/item/32903954998.html
++ https://aliexpress.ru/item/32903954998.html
  
-7.2. https://a.aliexpress.com/_A3zzf6
++ https://a.aliexpress.com/_A3zzf6
 
-7.3. https://aliexpress.ru/item/32888955522.html
++ https://aliexpress.ru/item/32888955522.html
 
-7.4. https://aliexpress.ru/item/32915024956.html
++ https://aliexpress.ru/item/32915024956.html
 
 PRO250_Драйвер_IXDN604SIA
 !(PRO250_Драйвер_IXDN604SIA)[PRO250_Драйвер_IXDN604SIA.jpg]
