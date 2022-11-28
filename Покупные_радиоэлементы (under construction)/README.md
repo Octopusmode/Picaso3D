@@ -1,4 +1,4 @@
-# Покупные радиоэлементы для ремонта принтеров Picasa
+# Покупные радиоэлементы для ремонта принтеров Picaso
 ---
 
 1. IWISS IWS-3220 460PCS Crimping Pliers Mini Crimper Tool for JST DuPont Terminal Narrow-pitch Connector Pins 0.08-0.5mm²AWG 32-20
