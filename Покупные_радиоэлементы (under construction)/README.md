@@ -7,12 +7,9 @@ https://sl.aliexpress.ru/p?key=gGwexSX
 2. Look what I found on AliExpress! 10Set PHD 2.0mm Double Row 2X2/3/4/5/6/7/8/9/10/11/12pin PHD2.0 Connector Straight / Curved Needle Plug Male + Female + Crimps for 55.82 руб. 
 https://sl.aliexpress.ru/p?key=Jjtexmu
 
-3. Мы такие юзаем Смотри, что есть на AliExpress! Двухсторонняя текстурированная/гладкая стальная пластина PEI Sping 210x210 мм + основание для дизайнеров Picaso Pro 250 за 1 216,75 руб.
-https://sl.aliexpress.ru/p?key=taHnxR0
+3. 
 
-4. Надоело долго ждать пока можно будет снять  деталь со стола. Купил на Алике стальную магнитную пластину для своего XL. Вот ссылка:
-Смотри, что есть на AliExpress! Новая модернизированная пружинная стальная нагревательная кровать FLEXBED 410x410 мм, применяемая PEI + Гибкая Магнитная основа для детали 3D принтера за 1 508,77 руб. - уже со скидкой 30％ 
-https://sl.aliexpress.ru/p?key=HfHnxVD
+4. 
 
 5. https://sl.aliexpress.ru/p?key=3zthxQy
 Я первые поставил, натянув на них термоусадку, что бы не поцарапать стол снизу. После перехода на PEI стекло ни разу не снимал
@@ -34,9 +31,7 @@ https://sl.aliexpress.ru/p?key=s5b0Zo
 10. Смотри, что есть на AliExpress! 10 шт./лот ABEC-5 MF63ZZ MF63Z MF63 ZZ LF630ZZ F673ZZ высококачественный 3x6x2,5 мм 3*6*2,5 мм стальной Миниатюрный фланцевый подшипник за 278,43 руб. уже со скидкой 30% 
 https://sl.aliexpress.ru/p?key=Gp6e2A
 
-11. Купил PEI  наклейку с пружинной сталью. Забыл про сколы. В основном PETG печатаем, но и  ABS было дело, всё хорошо.
-Смотри, что есть на AliExpress! Двухсторонняя текстурированная/гладкая стальная пластина PEI Sping 210x210 мм + основание для дизайнеров Picaso Pro 250 за 1 226,65 руб. 
-https://sl.aliexpress.ru/p?key=SE1nJ6
+11. 
 
 12. https://a.aliexpress.com/_DEC0CX9
 
