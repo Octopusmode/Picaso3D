@@ -1,14 +1,11 @@
 # Покупные радиоэлементы для ремонта принтеров Picaso
 ---
 
-1. IWISS IWS-3220 460PCS Crimping Pliers Mini Crimper Tool for JST DuPont Terminal Narrow-pitch Connector Pins 0.08-0.5mm²AWG 32-20
-
-https://sl.aliexpress.ru/p?key=gGwexSX
+1. Клещи для обжима контактов https://sl.aliexpress.ru/p?key=gGwexSX
 
 2. Разъём PHD2.0 https://sl.aliexpress.ru/p?key=Jjtexmu
 
-3. https://sl.aliexpress.ru/p?key=3zthxQy
-Я первые поставил, натянув на них термоусадку, что бы не поцарапать стол снизу. После перехода на PEI стекло ни разу не снимал
+3. Зажим KINGROON для 3D-принтера https://sl.aliexpress.ru/p?key=3zthxQy
 
 4. Драйвер IXDN604SI https://aliexpress.ru/item/1005002628524804.html
 
