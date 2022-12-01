@@ -25,3 +25,5 @@
 + https://aliexpress.ru/item/32888955522.html
 
 + https://aliexpress.ru/item/32915024956.html
+
+8. Термосопротивление/термистор PT1000 https://aliexpress.ru/item/4000717733995.html
