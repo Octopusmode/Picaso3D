@@ -9,7 +9,7 @@
 
 4. Драйвер IXDN604SI https://aliexpress.ru/item/1005002628524804.html
 
-5.  Loctite 601 620 648 680 https://sl.aliexpress.ru/p?key=s5b0Zo
+5.  Вал-втулочный фиксатор Loctite 601/620/648/680 https://sl.aliexpress.ru/p?key=s5b0Zo
 
 6. Тефлоновая трубка 1 метр
 
