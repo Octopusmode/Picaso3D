@@ -26,4 +26,6 @@
 
 + https://aliexpress.ru/item/32915024956.html
 
-8. Термосопротивление/термистор PT1000 https://aliexpress.ru/item/4000717733995.html
+8. Термосопротивление/термистор PT1000: https://aliexpress.ru/item/4000717733995.html
+
+9. Кнопка вкл./выкл. (например, клавишный переключатель KCD1-201-4-C3 B/4P, можно с подсветкой, можно без): https://www.chipdip.ru/product0/8006791950
