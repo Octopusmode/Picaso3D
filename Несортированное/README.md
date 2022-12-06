@@ -11,7 +11,7 @@ XPRO_распиновка_разъёмов
 
 
 DES_X_XPRO_XL_XLPRO_Термобарьер_из_чата
-![DES_X_XPRO_XL_XLPRO_Термобарьер_из_чата](./DES_X_XPRO_XL_XLPRO_Термобарьер_из_чата.tif)
+![DES_X_XPRO_XL_XLPRO_Термобарьер_из_чата](./DES_X_XPRO_XL_XLPRO_Термобарьер_из_чата.gif)
 
 
 Термопаста_Gripcott_NF
