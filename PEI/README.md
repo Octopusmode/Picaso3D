@@ -13,6 +13,7 @@
 
 3. Лист PEI 377x370 мм: https://item.taobao.com/item.htm?spm=a1z0d.6639537/tb.1997196601.14.4ecc7484fJOoKn&id=652817769134
 
+4. https://aliexpress.ru/item/1005004136943802.html
 
 ![PEI_0](./img/PEI_0.jpg)
 
