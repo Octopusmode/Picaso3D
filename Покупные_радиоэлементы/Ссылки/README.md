@@ -16,11 +16,11 @@
 + https://a.aliexpress.com/_A3iYtX
 + https://aliexpress.ru/item/1005001661430005.html
 
-7. Муфты:
+7. Муфты для серии Х (размеры «родной» муфты для Х, XPRO, XL, XLPRO: посадочные 5х5мм, внешний диаметр 15мм, высота 20мм):
 
 + https://aliexpress.ru/item/32903954998.html
  
-+ https://a.aliexpress.com/_A3zzf6
++ Внешний диаметр не 15, а 19 мм: https://a.aliexpress.com/_A3zzf6
 
 + https://aliexpress.ru/item/32888955522.html
 
