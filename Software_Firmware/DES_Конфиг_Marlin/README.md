@@ -2,4 +2,4 @@
 ---
 
 
-Конфиг под плату SKR Mini E3 V3 для PICASO Designer 2014. Экран родной.
+Конфиг под плату SKR Mini E3 V3 для PICASO Designer 2014. Используется родной экран.
