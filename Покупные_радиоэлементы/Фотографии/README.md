@@ -12,6 +12,8 @@
 3. XPRO_Транзистор_нагрева_сопла
 
 NTD20N06LT4G N-канал 60В 20А D-PAK
+или
+STD20NF06L N-channel 60 V, 32 mΩ typ., 24 A, Power MOSFET in a DPAK package
 
 4. XPRO_Мотор_XY
 
