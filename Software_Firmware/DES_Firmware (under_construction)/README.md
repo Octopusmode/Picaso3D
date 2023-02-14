@@ -31,5 +31,13 @@
 
 ![15_Picaso_Designer](./img/15_Picaso_Designer.jpg)
 
+![16_Picaso_Designer](./img/16_Picaso_Designer.jpg)
+
+![17_Picaso_Designer](./img/17_Picaso_Designer.jpg)
+
+![18_Picaso_Designer](./img/18_Picaso_Designer.jpg)
+
+![19_Picaso_Designer](./img/19_Picaso_Designer.jpg)
+
 
 Посадочное место vT2А под транзистор (корпус D2PAK) для стола на многих версиях плат для Designer  пустое, так как транзистор (корпус ТО-220) установлен с другой стороны платы на месте с маркировкой vT2.
