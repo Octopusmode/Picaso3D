@@ -179,7 +179,7 @@ Scripts -> Tool Change Script:
 
 По остальным командам — можно погуглить, т.к. они стандартные.
 
-### 8.2) Picaso Designer X, XPro (для XL и XLPro тоже должно работать, но ко мне XL приедет только через неделю – проверю)
+### 8.2. Picaso Designer X, XPro (для XL и XLPro тоже должно работать, но ко мне XL приедет только через неделю – проверю)
 
 ![15_picasimp](./img/15_picasimp.jpg)
 
@@ -286,7 +286,7 @@ Prepare to Print (левый нижний угол).
 
 ![26_picasimp](./img/26_picasimp.jpg)
 
-- PLA+PVA(REC)
+- PLA+PVA (REC)
 
 ![27_picasimp](./img/27_picasimp.jpg)
 
@@ -302,18 +302,21 @@ Prepare to Print (левый нижний угол).
 
 Наладить работу датчиков наличия прутка и контроля подачи можно, вставив некоторый код в некоторое место:
 
-![28_picasimp](./img/28_picasimp.jpg)
 ```
 {REPLACE "; layer " "M532 X0 L"}
-
 {REPLACE ", Z = " " Z"}
 ```
-Поясню, что сам я не пользуюсь этими датчиками, но уважаемые люди из телеграм-чата по принтерам Пикасо вполне себе пользуются. Буду срочные вопросы — лучше сразу там спросить.
 
-[Picaso3dUnofficial](https://t.me/Picaso3dUnofficial)
+![28_picasimp](./img/28_picasimp.jpg)
+
+Поясню, что сам я не пользуюсь этими датчиками, но уважаемые люди из телеграм-чата [Picaso3dUnofficial](https://t.me/Picaso3dUnofficial) по принтерам Пикасо вполне себе пользуются. Буду срочные вопросы — лучше сразу там спросить.
 
 Всё это искусство мы успешно практикуем и используем у себя в студии 3D печати [Asteri 3D](https://asteri-3d.ru/) — по смежным вопросам можете обращаться также и туда.
 
 Статья и так получилась намного длиннее, чем планировал, так что не смею больше задерживать.
 
 Удачных принтов и сухого пластика.
+
+05.11.2020
+
+[Источник](https://picaso3d-club.ru/forum/forum44/116-kak-nastroit-slayser-simplify3d-pod-3d-printery-picaso-3d-designer.-statya-dlya-tekh_-kto-khochet-ikh-podruzhit.422)
