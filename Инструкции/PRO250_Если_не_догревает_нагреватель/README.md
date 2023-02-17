@@ -1,4 +1,4 @@
-#Работа с G-Code Picaso PRO250
+# Работа с G-Code Picaso PRO250
 ---
 
 1. Если 
