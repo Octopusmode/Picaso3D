@@ -1,0 +1,181 @@
+---
+
+G90
+M82
+M104 S120 T0
+M190 S105
+M104 S245 T0
+M109 S245 T0
+G28
+T10 I2 S2 R1 P20
+
+Вот так должен выглядеть жкод в начале для  АБСа, например.
+Если не прописать температуры явно - прошивка будет их брать и текущего профиля пластика - придется за этим следить.
+Ну я написал не стартовый жкод, а то, как жкод в начале должен в итоге выглядеть, а слайсер туда это написал или еще кто - пофиг.
+
+---
+
+
+В про250 можно часть конфигов прошивки изменить через gcode с компа через repetier host. Прошивка принтера, судя по всему, основана на Repetier и общается по своему протоколу
+Еепром конфиги ага
+Работает по команде M303 T0 C5 S260
+даже в сопливчик прям встаёт
+
+В про250 можно часть конфигов прошивки изменить через gcode с компа через repetier host. Прошивка принтера, судя по всему, основана на Repetier и общается по своему протоколу
+
+просто открываешь репетир хост. В нем соединяемся с принтером по бодрейту 230400.
+пишем M205 чтобы получить конфиг в еепром текущий
+открываем доку https://www.repetier.com/documentation/repetier-firmware/rf-installation/
+там написано как через M206 T<type> P<position> X<new_value> менять значения 
+меняем нужный параметр
+
+Все, я научился менять значения  EEPROM в прошивке
+вот сейчас поменял значения steps per mm
+просто открываешь репетир хост. В нем соединяемся с принтером по бодрейту 230400.
+пишем M205 чтобы получить конфиг в еепром текущий
+открываем доку https://www.repetier.com/documentation/repetier-firmware/rf-installation/
+там написано как через M206 T<type> P<position> X<new_value> менять значения 
+меняем нужный параметр
+Repetier Software
+Installation of Repetier-Firmware for Arduino 3d printer boards
+Learn how to configure the Repetier-Firmware to work perfectly with your 3d printer board. All configuration options explained with additional informations.
+21:48:37.416 : EPR:2 75 230400 Baudrate
+21:48:37.416 : EPR:3 129 11602.28 Filament printed [m]
+21:48:37.416 : EPR:2 125 8605906 Printer active [s]
+21:48:37.416 : EPR:3 3 170.67 X-axis steps per mm
+21:48:37.416 : EPR:3 7 170.67 Y-axis steps per mm
+21:48:37.416 : EPR:3 11 800.00 Z-axis steps per mm
+21:48:37.416 : EPR:3 15 300.00 X-axis max. feedrate [mm/s]
+21:48:37.416 : EPR:3 19 300.00 Y-axis max. feedrate [mm/s]
+21:48:37.416 : EPR:3 23 10.00 Z-axis max. feedrate [mm/s]
+21:48:37.416 : EPR:3 27 80.00 X-axis homing feedrate [mm/s]
+21:48:37.417 : EPR:3 31 80.00 Y-axis homing feedrate [mm/s]
+21:48:37.417 : EPR:3 35 10.00 Z-axis homing feedrate [mm/s]
+21:48:37.417 : EPR:3 39 20.00 Max. jerk [mm/s]
+21:48:37.417 : EPR:3 47 0.40 Max. Z-jerk [mm/s]
+21:48:37.417 : EPR:3 133 -15.20 X home pos [mm]
+21:48:37.417 : EPR:3 137 -0.90 Y home pos [mm]
+21:48:37.417 : EPR:3 141 -0.38 Z home pos [mm]
+21:48:37.417 : EPR:3 145 200.00 X max length [mm]
+21:48:37.417 : EPR:3 149 200.00 Y max length [mm]
+21:48:37.417 : EPR:3 153 210.60 Z max length [mm]
+21:48:37.417 : EPR:3 169 0.00 Z correction [mm]
+21:48:37.417 : EPR:3 173 213.10 X sopli 2 [mm]
+21:48:37.418 : EPR:3 177 -0.10 Y sopli 2 [mm]
+21:48:37.422 : EPR:3 51 2000.00 X-axis acceleration [mm/s^2]
+21:48:37.422 : EPR:3 55 2000.00 Y-axis acceleration [mm/s^2]
+21:48:37.423 : EPR:3 59 10000.00 Z-axis acceleration [mm/s^2]
+21:48:37.423 : EPR:3 63 2000.00 X-axis travel acceleration [mm/s^2]
+21:48:37.423 : EPR:3 67 2000.00 Y-axis travel acceleration [mm/s^2]
+21:48:37.423 : EPR:3 71 10000.00 Z-axis travel acceleration [mm/s^2]
+21:48:37.423 : EPR:0 103 0 OPS operation mode [0=Off,1=Classic,2=Fast]
+21:48:37.423 : EPR:3 99 50.00 OPS move after x% retract [%]
+21:48:37.423 : EPR:3 43 0.80 OPS min. distance for fil. retraction [mm]
+21:48:37.424 : EPR:3 87 1.50 OPS retraction length [mm]
+21:48:37.424 : EPR:3 91 0.00 OPS retraction backlash [mm]
+21:48:37.424 : EPR:0 106 0 Bed Heat Manager [0-2]
+21:48:37.424 : EPR:0 107 255 Bed PID drive max
+21:48:37.424 : EPR:0 124 80 Bed PID drive min
+21:48:37.424 : EPR:3 108 196.00 Bed PID P-gain
+21:48:37.424 : EPR:3 112 33.02 Bed PID I-gain
+21:48:37.424 : EPR:3 116 290.00 Bed PID D-gain
+21:48:37.424 : EPR:0 120 255 Bed PID max value [0-255]
+21:48:37.425 : EPR:3 200 452.33 Extr.1 steps per mm
+21:48:37.425 : EPR:3 204 2000.00 Extr.1 max. feedrate [mm/s]
+21:48:37.425 : EPR:3 208 5.00 Extr.1 start feedrate [mm/s]
+21:48:37.425 : EPR:3 212 3000.00 Extr.1 acceleration [mm/s^2]
+21:48:37.425 : EPR:0 216 1 Extr.1 heat manager [0-1]
+21:48:37.425 : EPR:0 217 140 Extr.1 PID drive max
+21:48:37.425 : EPR:0 245 60 Extr.1 PID drive min
+21:48:37.425 : EPR:3 218 24.00 Extr.1 PID P-gain
+21:48:37.425 : EPR:3 222 0.88 Extr.1 PID I-gain
+21:48:37.425 : EPR:3 226 80.00 Extr.1 PID D-gain
+21:48:37.426 : EPR:0 230 255 Extr.1 PID max value [0-255]
+21:48:37.426 : EPR:2 231 0 Extr.1 X-offset [steps]
+21:48:37.426 : EPR:2 235 0 Extr.1 Y-offset [steps]
+21:48:37.426 : EPR:1 239 1 Extr.1 temp. stabilize time [s]
+21:48:37.426 : EPR:1 250 150 Extr.1 temp. for retraction when heating [C]
+21:48:37.426 : EPR:1 252 0 Extr.1 distance to retract when heating [mm]
+21:48:37.426 : EPR:0 254 255 Extr.1 extruder cooler speed [0-255]
+21:48:37.426 : EPR:3 246 0.00 Extr.1 advance L [0=off]
+21:48:37.427 : EPR:3 300 452.33 Extr.2 steps per mm
+21:48:37.427 : EPR:3 304 2000.00 Extr.2 max. feedrate [mm/s]
+21:48:37.427 : EPR:3 308 5.00 Extr.2 start feedrate [mm/s]
+21:48:37.427 : EPR:3 312 3000.00 Extr.2 acceleration [mm/s^2]
+21:48:37.427 : EPR:0 316 1 Extr.2 heat manager [0-1]
+21:48:37.427 : EPR:0 317 140 Extr.2 PID drive max
+21:48:37.427 : EPR:0 345 60 Extr.2 PID drive min
+21:48:37.427 : EPR:3 318 24.00 Extr.2 PID P-gain
+21:48:37.427 : EPR:3 322 0.88 Extr.2 PID I-gain
+21:48:37.427 : EPR:3 326 80.00 Extr.2 PID D-gain
+21:48:37.427 : EPR:0 330 255 Extr.2 PID max value [0-255]
+21:48:37.428 : EPR:2 331 2705 Extr.2 X-offset [steps]
+21:48:37.428 : EPR:2 335 -145 Extr.2 Y-offset [steps]
+21:48:37.428 : EPR:1 339 1 Extr.2 temp. stabilize time [s]
+21:48:37.428 : EPR:1 350 150 Extr.2 temp. for retraction when heating [C]
+
+[Источник_Телеграм](https://t.me/Picaso3dUnofficial/97758)
+
+---
+
+Pro250 t2.5
+
+XPro GT2
+
+Натяжка ремня идёт не только количеством зубчиков, но и моторам. Если перекоситься - будут диагональные детали
+
+---
+
+XPro нагреватель 24В 1,6А 40Вт 15Ом, сопротивление Pt1000 в 400-ом, Pt500 в 250-ом
+
+В 250Pro 24В 30Вт (но это не точно)
+
+---
+
+локтайт243
+Для осевых винтов
+На Pro250 и X PRO
+Обязательное время засыхания - 40 - 60 минут
+
+--
+
+Mold Max 60
+30ки не чистили, деформировались. Мы перепробовали с 15 до 60
+60 - самый хороший оказался
+
+---
+
+Для обычных моторов класса В - перегрев на 130°
+
+---
+
+
+Ремни на Picaso 3d Designer 1 gen (первое поколение)
+
+Количество ремней - 2
+шаг - 2.5мм
+форма зубца - трапецевидная
+длина одного ремня - 1192.5 мм (из саппорта https://picaso3d-club.ru/forum/forum37/158-zamena-remney-ekstrudera-na-picaso-3d-designer)
+реальная длина 1192,5 мм 477 зубцов
+ширина - 6 
+Когда ставил, оказалось, что даже по ссылке у пикасы написано не корректно!
+Реальная длина, когда нормально ремень натянут, на зуб короче, т.о. 1190 мм. Но мой совет, сперва поставить 477 зубцов и 1192.5 мм если будет как сопля натянут, то на зуб укорачиваем каждый ремень и всё встаёт отлично.
+
+С завода стоял полиуретановый со стальным кордом. (Он толще чем резиновый со стекловолоконным кордом)
+толщина 2 мм
+высота зубца 0.7 мм
+https://aliexpress.ru/item/762062323.html аналог от POWGE
+
+
+Сейчас устанавливают резиновый со стекловолоконным сердечником
+НЕОБХОДИМА ЗАМЕНА СТОПОРОВ С 2мм на более толстые 3мм, потому что ремень тоньше. маркировка T2.5-2400
+толщина 1.3 мм
+высота зуба - 0.7 мм
+ширина 5.5 мм
+https://aliexpress.ru/item/1811393566.html Аналог от POWGE
+picaso3d-club.ru
+Замена ремней экструдера на PICASO 3D Designer  | Форум Picaso 3D Club
+Здравствуйте всем!У меня такая проблема, на принтере Picaso 3D Designer, растянулись ремни, сейчас стоят белые ремни. я хотел их заменить на новые. В ...
+
+[Источник](https://t.me/Picaso3dUnofficial/217721)
+---

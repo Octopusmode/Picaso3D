@@ -36,4 +36,7 @@ XPRO_Стекло_var.1
 
 Чертëж стекла для XL, XLPRO — .pdf в файлах.
 
-PicasoXL_glass_template_v8.stl — шаблон для приклейки магнитов на стекло для XL.
+PicasoXL_glass_template_v8.stl — шаблон для приклейки магнитов на стекло для XL [^1].
+
+
+[^1]: https://t.me/Picaso3dUnofficial/268936
