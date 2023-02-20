@@ -38,6 +38,4 @@ XPRO_Стекло_var.1
 250PRO_стекло_var.1
 ![250PRO_стекло_1](./img/250PRO_стекло_1.jpg)
 
----
-
 [^1]: https://t.me/Picaso3dUnofficial/268936
