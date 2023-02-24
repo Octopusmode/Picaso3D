@@ -12,10 +12,10 @@
 
 Силикон можно купить на Ozon'е или, например, по ссылке: https://sintez-mold.ru/product/silikon-dlya-pishhevyh-form-liquidform-platinum-40-1kg/
 
-![Силикон](./img/Photo_silicone_0.jpg)
-
-![Форма_для_литья_0](./img/Photo_silicone_1.jpg)
-
-![Форма_для_литья_1](./img/Photo_silicone_2.jpg)
+<p float="left">
+  <img src="./img/Photo_silicone_0.jpg" width="32%" title="Силикон"/>
+  <img src="./img/Photo_silicone_1.jpg" width="32%" title="Форма_для_литья_0"/> 
+  <img src="./img/Photo_silicone_2.jpg" width="32%" title="Форма_для_литья_1"/>
+</p>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/telegram/white"> <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/telegram/black"> <img src="https://cdn.simpleicons.org/telegram/.svg" alt="Telegram" alight=left height="20" width="20"></picture> [Источник](https://t.me/Picaso3dUnofficial/239314)
