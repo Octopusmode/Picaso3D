@@ -1,5 +1,4 @@
 # Designer XPRO
----
 
 ![0_XPRO_Electronic_components.jpg](./img/0_XPRO_Electronic_components.jpg)
 

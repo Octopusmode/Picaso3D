@@ -1,5 +1,4 @@
 # Подшипники для принтеров X, XPRO, XL, XLPRO серии S1
----
 
 Слева направо:
 
@@ -71,4 +70,5 @@ https://sl.aliexpress.ru/p?key=5mCDtyv
 
 + ZZ — защитная металлическая шайба с двух сторон ("закрытый" подшипник).
 
-[Источник_телеграм](https://t.me/Picaso3dUnofficial/244110)
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/telegram/white"> <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/telegram/black"> <img src="https://cdn.simpleicons.org/telegram/.svg" alt="Telegram" alight=left height="20" width="20"></picture> [Источник](https://t.me/Picaso3dUnofficial/244110)

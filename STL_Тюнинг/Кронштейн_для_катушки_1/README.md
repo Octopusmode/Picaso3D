@@ -1,5 +1,4 @@
 # Кронштейн для катушек с подшипниками
----
 
 Подшипники ABEK 9 608ZZ 22х8х7 от скейтборда. Достаточно тугие. Если нужно потуже, открываем, смазываем по другому. Можно вообще не мазать.
 И ещё: подача теперь без рывков. Пластик равномерно крутится на бобине.
@@ -13,4 +12,4 @@
 ![Кронштейн_для_катушки_1_3](./img/Кронштейн_для_катушки_1_3.jpg)
 ![Кронштейн_для_катушки_1_4](./img/Кронштейн_для_катушки_1_4.jpg)
 
-[Источник_телеграм](https://t.me/Picaso3dUnofficial/210570)
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/telegram/white"> <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/telegram/black"> <img src="https://cdn.simpleicons.org/telegram/.svg" alt="Telegram" alight=left height="20" width="20"></picture> [Источник](https://t.me/Picaso3dUnofficial/210570)

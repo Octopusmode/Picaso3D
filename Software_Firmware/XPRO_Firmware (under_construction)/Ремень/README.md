@@ -1,5 +1,4 @@
 # Ремни, рельсы Designer XPRO
----
 
 ![0_belt_XPRO](./img/0_belt_XPRO.jpg)
 
