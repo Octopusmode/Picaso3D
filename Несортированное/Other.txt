@@ -189,3 +189,15 @@ picaso3d-club.ru
 
 
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+
+---
+
+<p float="left">
+  <img src="./img/Photo_silicone_0.jpg" width="32%" title="Силикон"/>
+  <img src="./img/Photo_silicone_1.jpg" width="32%" title="Форма_для_литья_0"/> 
+  <img src="./img/Photo_silicone_2.jpg" width="32%" title="Форма_для_литья_1"/>
+</p>
+
+---
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/telegram/white"> <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/telegram/black"> <img src="https://cdn.simpleicons.org/telegram/.svg" alt="Telegram" alight=left height="20" width="20"></picture> [Источник](https://t.me/Picaso3dUnofficial/244110)
