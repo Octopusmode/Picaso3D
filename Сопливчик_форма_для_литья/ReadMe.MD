@@ -18,3 +18,5 @@
 ![Форма_для_литья_0](./img/Photo_silicone_1.jpg)
 
 ![Форма_для_литья_1](./img/Photo_silicone_2.jpg)
+
+[Источник_телеграм](https://t.me/Picaso3dUnofficial/239314)
