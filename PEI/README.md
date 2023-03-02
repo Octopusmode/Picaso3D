@@ -1,5 +1,4 @@
 # Листы PEI для принтеров Picaso
----
 
 Магнитная подложка для листа PEI клеится на стекло.
 
@@ -15,12 +14,13 @@
 
 4. https://aliexpress.ru/item/1005004136943802.html
 
-![PEI_0](./img/PEI_0.jpg)
+<p float="left">
+  <img src="./img/PEI_0.jpg" width="36%" title="PEI_0"/>
+  <img src="./img/PEI_1.jpg" width="60%" title="PEI_1"/>
+</p>
 
-![PEI_1](./img/PEI_1.jpg)
-
-![PEI_2](./img/PEI_2.jpg)
-
-![PEI_3](./img/PEI_3.jpg)
-
-![PEI_4](./img/PEI_4.jpg)
+<p float="left">
+  <img src="./img/PEI_2.jpg" width="32%" title="PEI_2"/>
+  <img src="./img/PEI_3.jpg" width="32%" title="PEI_3"/>
+  <img src="./img/PEI_4.jpg" width="32%" title="PEI_4"/>
+</p>
