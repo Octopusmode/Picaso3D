@@ -1,5 +1,4 @@
 # Материнская плата Designer XPRO 
----
 
 ![0_XPRO_Motherboard](./img/0_XPRO_Motherboard.jpg)
 
