@@ -10,3 +10,7 @@
 
 
 https://www.youtube.com/channel/UCA1QKyfp9iYxaACnGU5Resg
+
+
+Возможно, будет полезно, опыт замены ремней на Designer:
+https://t.me/Picaso3dUnofficial/275637
