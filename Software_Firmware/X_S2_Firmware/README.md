@@ -1,4 +1,4 @@
-Picaso Designer X S2 (Series 2)
+# Picaso Designer X S2 (Series 2)
 
 <p float="left">
   <img src="./img/0_X_S2.jpg" width="32%" title="0_X_S2"/>
