@@ -1,10 +1,12 @@
 # Стёкла Designer XPRO, X, XL, XLPRO
 
-Стёкла (цветное, матовое, зеркало — какое больше нравится) возможно нарезать на стеколке по чертежу. Не закалённое стекло. Стекло после закалки не режут. Фаска по желанию, можно просто обработать кромку.
+Стёкла (цветное, матовое, зеркало — какое больше нравится) возможно нарезать на стеколке по чертежу. Не закалённое стекло. Стекло после закалки не режут. Фаска по желанию, можно просто обработать кромку [^1].
 
 Толщина стекла Designer X, XPRO — 4 мм, Designer XL, XLPRO — 8 мм.
 
 Первое время Picaso поставляли стёкла для XPRO с выемкой 12 мм, затем стали поставлять с выемкой 10 мм. 10 мм в скобу влезает, но с усилием.
+
+Размеры стекла Designer X S2: 210х215мм. Толщина 4мм. Диаметр выемки 9 или 10мм [^2]. 
 
 Углубления под магниты обычно на стеколке никто не хочет делать. Как вариант, можно купить тонкие магниты (0,5мм) и наклеить без углублений — отметить маркером точки и по ним наклеить.
 
@@ -16,7 +18,7 @@
 
 > Чертëж стекла для XL, XLPRO — .pdf в файлах.
 >
-> PicasoXL_glass_template_v8.stl — шаблон для приклейки магнитов на стекло для XL [^1].
+> PicasoXL_glass_template_v8.stl — шаблон для приклейки магнитов на стекло для XL [^3].
 
 XPRO_Стекло_var.0          |  XPRO_Стекло_var.1
 :-------------------------:|:-------------------------:
@@ -35,4 +37,7 @@ XPRO_Стекло_var.0          |  XPRO_Стекло_var.1
   <img src="./img/Стекло_химия_2.jpg" width="32%" title="Стекло_химия_2"/>
 </p>
 
-[^1]: https://t.me/Picaso3dUnofficial/268936
+
+[^1]: <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/telegram/white"> <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/telegram/black"> <img src="https://cdn.simpleicons.org/telegram/.svg" alt="Telegram" alight=left height="20" width="20"></picture> [Источник](https://t.me/Picaso3dUnofficial/253018)
+[^2]: <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/telegram/white"> <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/telegram/black"> <img src="https://cdn.simpleicons.org/telegram/.svg" alt="Telegram" alight=left height="20" width="20"></picture> [Источник](https://t.me/Picaso3dUnofficial/278477)
+[^3]: <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/telegram/white"> <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/telegram/black"> <img src="https://cdn.simpleicons.org/telegram/.svg" alt="Telegram" alight=left height="20" width="20"></picture> [Источник](https://t.me/Picaso3dUnofficial/268936)

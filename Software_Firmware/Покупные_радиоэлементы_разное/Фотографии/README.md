@@ -26,5 +26,10 @@ STD20NF06L N-channel 60 V, 32 mΩ typ., 24 A, Power MOSFET in a DPAK package
 
 ![Дисплей_DesignerX](./img/Дисплей_DesignerX.jpg)
 
-7. XPRO_шаговый_мотор_экструдера.jpg
+7. XPRO_шаговый_мотор_экструдера
+
 ![XPRO_S1_шаговый_мотор_экструдера](./img/XPRO_S1_шаговый_мотор_экструдера.jpg)
+
+8. Маркировка транзистора IRLML2803
+
+![Транзистор IRLML2803](./img/IRLML2803.jpg)
