@@ -38,6 +38,6 @@ XPRO_Стекло_var.0          |  XPRO_Стекло_var.1
 </p>
 
 
-[^1]: <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/telegram/white"> <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/telegram/black"> <img src="https://cdn.simpleicons.org/telegram/.svg" alt="Telegram" alight=left height="20" width="20"></picture> [Источник](https://t.me/Picaso3dUnofficial/253018)
-[^2]: <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/telegram/white"> <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/telegram/black"> <img src="https://cdn.simpleicons.org/telegram/.svg" alt="Telegram" alight=left height="20" width="20"></picture> [Источник](https://t.me/Picaso3dUnofficial/278477)
-[^3]: <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/telegram/white"> <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/telegram/black"> <img src="https://cdn.simpleicons.org/telegram/.svg" alt="Telegram" alight=left height="20" width="20"></picture> [Источник](https://t.me/Picaso3dUnofficial/268936)
+[^1]: Telegram [Источник](https://t.me/Picaso3dUnofficial/253018)
+[^2]: Telegram [Источник](https://t.me/Picaso3dUnofficial/278477)
+[^3]: Telegram [Источник](https://t.me/Picaso3dUnofficial/268936)
