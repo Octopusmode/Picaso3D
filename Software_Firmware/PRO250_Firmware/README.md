@@ -23,3 +23,11 @@ https://www.chipdip.ru/product/bav99-nxp
 vT4 (smd code B6NU7) это IRLML2803, NPN
 
 1002 - резистор 10 кОм
+
+
+![7_Picaso_PRO250](./img/7_Picaso_PRO250.jpg)
+
+![8_Picaso_PRO250](./img/8_Picaso_PRO250.jpg)
+
+PRO250_Драйвер_IXDN604SIA
+![9_PRO250_Драйвер_IXDN604SIA](./img/9_PRO250_Драйвер_IXDN604SIA.jpg)

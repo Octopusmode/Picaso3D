@@ -5,3 +5,6 @@
 
 2. 
 ![1_XL_S2](./img/1_XL_S2.jpg)
+
+3. 
+![2_XL_S2](./img/2_XL_S2.jpg)
