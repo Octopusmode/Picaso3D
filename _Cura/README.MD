@@ -1,4 +1,4 @@
-# Добавление принтера Picaso X/X Pro в Cura
+# Добавление принтера Picaso Designer X, Designer X PRO в Cura
 
 В зависимости от версии Cura, содержимое папки resources из архива Ultimaker **Cura_PicasoX.zip** распаковать в соотвествующую папку (указаны пути установки Cura по-умолчанию):
 
@@ -55,3 +55,14 @@ M532 X0 L
 ![cura_script_0](./img/cura_script_0.png)
 
 >Дополнительная информация и инструкция по использованию сторонних слайсеров (Cura, PrusaSlicer) для принтеров Designer Classic, X, XPro, XL, XLPro в [Центре поддержки](http://helpcenter.picaso-3d.ru/we-answer).
+
+---
+# Picaso Designer
+
+Пример стартового и завершающего G-кода для Picaso Designer.
+
+![DES_Cura](./img/DES_Cura.jpg)
+
+Также примеры стартового кода для Picaso Designer и PRO250 есть [в статье про Simplify3D](https://github.com/Octopusmode/Picaso3D/tree/master/_S3D_%D0%B4%D0%BB%D1%8F_Picaso_%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D1%8F_%D0%BE_%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B5#81-designer-pro250).
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/telegram/white"> <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/telegram/black"> <img src="https://cdn.simpleicons.org/telegram/.svg" alt="Telegram" alight=left height="20" width="20"></picture> [Источник](https://t.me/Picaso3dUnofficial/275116)

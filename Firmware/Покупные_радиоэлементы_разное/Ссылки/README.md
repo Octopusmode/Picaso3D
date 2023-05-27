@@ -1,12 +1,17 @@
 # Покупные радиоэлементы для ремонта принтеров Picaso
 
-0. Клещи для обжима контактов https://sl.aliexpress.ru/p?key=gGwexSX
+0. Клещи для обжима контактов: https://sl.aliexpress.ru/p?key=gGwexSX
 
-0. Разъём PHD2.0 https://sl.aliexpress.ru/p?key=Jjtexmu
+0. Разъём PHD2.0: https://sl.aliexpress.ru/p?key=Jjtexmu
 
-0. Зажим KINGROON для 3D-принтера https://sl.aliexpress.ru/p?key=3zthxQy
+0. Зажим KINGROON для 3D-принтера: https://sl.aliexpress.ru/p?key=3zthxQy
 
-0. Драйвер IXDN604SI https://aliexpress.ru/item/1005002628524804.html
+0. Зажим для стёкол (подойдут для Х, XPRO, Classic): https://aliexpress.ru/item/4000275674667.html <p float="left">
+  <img src="./img/Зажим_0.jpg" width="49%" title="Зажим_0"/>
+  <img src="./img/Зажим_1.jpg" width="49%" title="Зажим_1"/>
+</p>
+
+0. Драйвер IXDN604SI: https://aliexpress.ru/item/1005002628524804.html
 
 0. Вал-втулочный фиксатор Loctite 601/620/648/680 https://sl.aliexpress.ru/p?key=s5b0Zo
 
@@ -14,6 +19,9 @@
 
     + https://a.aliexpress.com/_A3iYtX
     + https://aliexpress.ru/item/1005001661430005.html
+
+0. Тефлоновая трубка в блок 250 (2IN/3OD, 2мм внутренний, 3мм наружный диаметры. При заказе с Али есть вероятность, что приедут трубки с внешним диаметром от 2.8 до 3.3мм):
+https://aliexpress.ru/item/32730855848.html
 
 0. Термосопротивление/термистор PT1000: https://aliexpress.ru/item/4000717733995.html
 
