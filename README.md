@@ -28,8 +28,8 @@
 ## [Firmware (Фотографии плат, покупные радиоэлементы)](./Firmware)
 
   * [DES](./Firmware/DES_Firmware)
-  * [DPXL](.Firmware/DPXL_Firmware)
-    * [XLPRO_XPRO_Мотор_переключения_сопел](./Firmware/DPXL_Firmware/XLPRO_XPRO_Мотор_переключения_сопел.lnk)
+  * [DPXL](./Firmware/DPXL_Firmware)
+
   * [DPX](./Firmware/DPX_Firmware_(under_construction))
     * [DPX_DPXL_Мотор_переключения_сопел](./Firmware/DPX_Firmware_(under_construction)/DPX_DPXL_Мотор_переключения_сопел)
     * [DPX_Electronic_components](./Firmware/DPX_Firmware_(under_construction)/DPX_Electronic_components)
