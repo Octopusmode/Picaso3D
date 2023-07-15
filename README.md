@@ -20,6 +20,8 @@
 > **DXL** Designer XL
 >
 > **DXLPRO DPXL** Designer XL PRO
+>
+> **SDPX** Designer X PRO S2
 
 >Информация о принтерах X, XPRO, XL, XLPRO без пометки «S2» относится к принтерам серии «S1».
 
