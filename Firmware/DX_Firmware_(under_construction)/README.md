@@ -3,7 +3,7 @@
 X_блок
 
 <p float="left">
-  <img src="./img/1_X_блок_0.jpg" width=49"%" title="X_блок_0"/>
+  <img src="./img/1_X_блок_0.jpg" width="49%" title="X_блок_0"/>
   <img src="./img/1_X_блок_1.jpg" width="49%" title="X_блок_1"/> 
 </p>
 
