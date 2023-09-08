@@ -15,7 +15,7 @@
 ![6_Picaso_PRO250](./img/6_Picaso_PRO250.jpg)
 
 Распиновка старой версии головы PRO250
-![Old_Pro250](./img/Old_Pro250.jpg)
+![Old_Pro250](./img/Old_PRO250.jpg)
 
 VD17, VD18, VD190 (smd code A7 или V99G) Cборка высокоскоростная из 2 диодов BAV99 в корпусе sot-23
 https://www.chipdip.ru/product/bav99-nxp
