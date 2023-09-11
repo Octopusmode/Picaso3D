@@ -15,6 +15,8 @@
 
 ![3_Picaso_Designer](./img/3_Picaso_Designer.jpg)
 
+![20_Picaso_Designer](./img/3_Picaso_Designer.jpg)
+
 ![5_Picaso_Designer](./img/5_Picaso_Designer.jpg)
 
 ![14_Picaso_Designer](./img/14_Picaso_Designer.jpg)
