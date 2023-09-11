@@ -6,29 +6,8 @@
 
 Официальный сайт [Центра поддержки Picaso3D](http://helpcenter.picaso-3d.ru/).
 
-Используемые сокращения:
-> **PRO250** Designer PRO250
-> 
-> **DES** Designer
-> 
-> **DESC** Designer Classic
-> 
-> **DX** Designer X
-> 
-> **DXPRO DPX** Designer X PRO
->
-> **DXL** Designer XL
->
-> **DXLPRO DPXL** Designer XL PRO
->
-> **SDPX** Designer X PRO S2
->
-> **SDX** Designer X S2
-
-> Информация о принтерах X, XPRO, XL, XLPRO без пометки «S2» относится к принтерам серии «S1».
-
 ## Содержимое репозитория:
-### :large_blue_circle: [Firmware (Фотографии плат, покупные радиоэлементы)](./Firmware)
+#### :large_blue_circle: [Firmware (Фотографии плат, покупные радиоэлементы)](./Firmware)
 ---
   * [DES](./Firmware/DES_Firmware)
   * [DPXL](./Firmware/DPXL_Firmware)
@@ -48,7 +27,7 @@
     * [Ссылки](./Firmware/Покупные_радиоэлементы_разное/Ссылки)
     * [Фотографии](./Firmware/Покупные_радиоэлементы_разное/Фотографии)
 
-### :large_blue_circle: [Software (Программное обеспечение, прошивки)](./Software)
+#### :large_blue_circle: [Software (Программное обеспечение, прошивки)](./Software)
 ---
   * [PRO250_EEPROM](./Software/PRO250_EEPROM (uc))
   * [PRO250_Прошивки](./Software/PRO250_Прошивки)
@@ -57,9 +36,9 @@
   * [XPRO_Прошивки](./Software/XPRO_Прошивки)
   * [PolygonX](./Software/PolygonX)
 
-### :large_blue_circle: STL-файлы для ремонта принтера, тюнинга, файлы для калибровки
+#### :large_blue_circle: STL-файлы для ремонта принтера, тюнинга, файлы для калибровки
 ---
-#### [STL_Детали_принтеров](./STL_Детали_принтеров)
+  * [STL_Детали_принтеров](./STL_Детали_принтеров)
 <details>
 <summary> Список файлов в папке "STL_Детали_принтеров" </summary>
  
@@ -130,7 +109,7 @@
   * [Шайба_двигателя_переключения_сопел](./STL_Детали_принтеров/Шайба_двигателя_переключения_сопел) 
 </details>
 
-#### [STL_Калибровочные_шаблоны](./STL_Калибровочные_шаблоны)
+  * [STL_Калибровочные_шаблоны](./STL_Калибровочные_шаблоны)
 
 <details>
 <summary> Список файлов в папке "STL_Калибровочные_шаблоны" </summary>
@@ -152,7 +131,7 @@
   * [Сведение_сопел_кольца_0_25_0_5.plgx](./STL_Калибровочные_шаблоны/Сведение_сопел_кольца_0_25_0_5.plgx)
 </details>
 
-#### [STL_Тюнинг](./STL_Тюнинг)
+  * [STL_Тюнинг](./STL_Тюнинг)
 <details>
 <summary> Список файлов в папке "STL_Тюнинг" </summary>
  
@@ -175,11 +154,10 @@
   * [Держатель_для_ключа_сопла](./STL_Тюнинг/Держатель_для_ключа_сопла.stl
 </details>
 
-### :large_blue_circle: Инструкции
+#### :large_blue_circle: Инструкции
 ---
-#### [Подшипники_S1](./Подшипники_S1)
-
-#### [Инструкции](./Инструкции)
+  * [Подшипники_S1](./Подшипники_S1)
+  * [Инструкции](./Инструкции)
 
 <details>
 <summary> Список инструкций </summary>
@@ -210,11 +188,11 @@
 
  </details>
 
-### :large_blue_circle: Настройки слайсеров, профили пластиков
+#### :large_blue_circle: Настройки слайсеров, профили пластиков
 ---
-#### [Cura](./_Cura)
-#### [S3D_для_Picaso_Статья_о_настройке](./_S3D_для_Picaso_Статья_о_настройке)
-#### [Профили_Polygon_XPRO](./Профили_пластиков_S3D_Polygon/Профили_Polygon_XPRO)
+  * [Cura](./_Cura)
+  * [S3D_для_Picaso_Статья_о_настройке](./_S3D_для_Picaso_Статья_о_настройке)
+  * [Профили_Polygon_XPRO](./Профили_пластиков_S3D_Polygon/Профили_Polygon_XPRO)
 
 <details>
 <summary>Список профилей для Polygon для XPRO</summary>
@@ -246,7 +224,7 @@
 
 </details>
 
-#### [Профили_Simplify3D](./Профили_пластиков_S3D_Polygon/Профили_Simplify3D)
+  * [Профили_Simplify3D](./Профили_пластиков_S3D_Polygon/Профили_Simplify3D)
 
 <details>
 <summary>Список профилей для Simplify3D для DPX, DX</summary>
@@ -297,7 +275,7 @@
 
 </details>
 
-#### [Профили_Simplify_PRO250](./Профили_пластиков_S3D_Polygon/Профили_Simplify_PRO250)
+  * [Профили_Simplify_PRO250](./Профили_пластиков_S3D_Polygon/Профили_Simplify_PRO250)
 
 <details>
 <summary>Список профилей для Simplify3D для PRO250</summary>
@@ -316,25 +294,47 @@
 
 </details>
 
-### :large_blue_circle: Ремонт, тюнинг
+#### :large_blue_circle: Ремонт, тюнинг
 ---
-#### [Сопливчик_форма_для_литья](./Сопливчик_форма_для_литья)
-#### [Стёкла](./Стёкла)
-   * [250PRO_стекло_0.jpg](./Стёкла/img/250PRO_стекло_0.jpg)
-   * [250PRO_стекло_1.jpg](./Стёкла/img/250PRO_стекло_1.jpg)
-   * [XPRO_Стекло_0.jpg](./Стёкла/img/XPRO_Стекло_0.jpg)
-   * [XPRO_Стекло_1.jpg](./Стёкла/img/XPRO_Стекло_1.jpg)
-   * [PicasoXL_glass_template_v8](./Стёкла/PicasoXL_glass_template_v8.stl)
-   * [XL_glass.pdf](./Стёкла/XL_glass.pdf)
-#### [Листы_PEI](./Листы_PEI)
+  * [Сопливчик_форма_для_литья](./Сопливчик_форма_для_литья)
+  * [Стёкла](./Стёкла)
+    * [250PRO_стекло_0.jpg](./Стёкла/img/250PRO_стекло_0.jpg)
+    * [250PRO_стекло_1.jpg](./Стёкла/img/250PRO_стекло_1.jpg)
+    * [XPRO_Стекло_0.jpg](./Стёкла/img/XPRO_Стекло_0.jpg)
+    * [XPRO_Стекло_1.jpg](./Стёкла/img/XPRO_Стекло_1.jpg)
+    * [PicasoXL_glass_template_v8](./Стёкла/PicasoXL_glass_template_v8.stl)
+    * [XL_glass.pdf](./Стёкла/XL_glass.pdf)
+  * [Листы_PEI](./Листы_PEI)
 
-### :large_blue_circle: Справочное
+#### :large_blue_circle: Справочное
 ---
-#### [Сушка_пластика](./Сушка_пластика)
-#### [Термопаста_смазки](./Термопаста_смазки) 
-#### [Размеры_масса_катушек_филамента.xlsx](./Размеры_масса_катушек_филамента.xlsx)
+  * [Сушка_пластика](./Сушка_пластика)
+  * [Термопаста_смазки](./Термопаста_смазки) 
+  * [Размеры_масса_катушек_филамента.xlsx](./Размеры_масса_катушек_филамента.xlsx)
 
-### :large_blue_circle: Разное
+#### :large_blue_circle: Разное
 ---
-#### [Картонная_катушка_HTP](./Картонная_катушка_HTP)
-#### [Несортированное](./Несортированное)
+  * [Картонная_катушка_HTP](./Картонная_катушка_HTP)
+  * [Несортированное](./Несортированное)
+
+#### :large_blue_circle: Используемые сокращения:
+---
+> **PRO250** Designer PRO250
+> 
+> **DES** Designer
+> 
+> **DESC** Designer Classic
+> 
+> **DX** Designer X
+> 
+> **DXPRO DPX** Designer X PRO
+>
+> **DXL** Designer XL
+>
+> **DXLPRO DPXL** Designer XL PRO
+>
+> **SDPX** Designer X PRO S2
+>
+> **SDX** Designer X S2
+
+> Информация о принтерах X, XPRO, XL, XLPRO без пометки «S2» относится к принтерам серии «S1».
