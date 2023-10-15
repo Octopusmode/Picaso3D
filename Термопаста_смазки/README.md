@@ -1,2 +1,3 @@
-Термопаста_Gripcott_NF
+1. Термопаста_Gripcott_NF
+
 ![Термопаста_Gripcott_NF](./Термопаста_Gripcott_NF.jpg)
