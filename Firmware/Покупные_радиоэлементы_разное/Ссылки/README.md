@@ -6,10 +6,10 @@
 
 0. Зажим KINGROON для 3D-принтера: https://sl.aliexpress.ru/p?key=3zthxQy
 
-0. Зажим для стёкол (подойдут для Х, XPRO, Classic): https://aliexpress.ru/item/4000275674667.html <p float="left">
-  <img src="./img/Зажим_0.jpg" width="49%" title="Зажим_0"/>
-  <img src="./img/Зажим_1.jpg" width="49%" title="Зажим_1"/>
-</p>
+0. Зажим для стёкол (подойдут для Х, XPRO, Classic): 	https://aliexpress.ru/item/4000275674667.html <p float="left">
+ 	 <img src="./img/Зажим_0.jpg" width="49%" title="Зажим_0"/>
+  	<img src="./img/Зажим_1.jpg" width="49%" title="Зажим_1"/>
+	</p>
 
 0. Драйвер IXDN604SI: https://aliexpress.ru/item/1005002628524804.html
 
