@@ -29,7 +29,7 @@
 
 #### :large_blue_circle: [Software (Программное обеспечение, прошивки)](./Software)
 ---
-  * [PRO250_EEPROM](./Software/PRO250_EEPROM (uc))
+  * [PRO250_EEPROM](./Software/PRO250_EEPROM_(uc))
   * [PRO250_Прошивки](./Software/PRO250_Прошивки)
   * [DES_Klipper_cfg](./Software/DES_Klipper_cfg)
   * [DES_Marlin_cfg](./Software/DES_Marlin_cfg)
@@ -302,7 +302,6 @@
     * [250PRO_стекло_1.jpg](./Стёкла/img/250PRO_стекло_1.jpg)
     * [XPRO_Стекло_0.jpg](./Стёкла/img/XPRO_Стекло_0.jpg)
     * [XPRO_Стекло_1.jpg](./Стёкла/img/XPRO_Стекло_1.jpg)
-    * [PicasoXL_glass_template_v8](./Стёкла/PicasoXL_glass_template_v8.stl)
     * [XL_glass.pdf](./Стёкла/XL_glass.pdf)
   * [Листы_PEI](./Листы_PEI)
 
