@@ -6,6 +6,7 @@
 ![16_XPRO_Electronic_components.jpg](./img/16_XPRO_Electronic_components.jpg)
 
 LD3 диод шоттки BAT54S (здесь производитель Secos, но можно другого производителя, например Taitron, Vishay, WTE, etc.).
+
 UFV5B транзистор IRLML6344 (здесь U - IRLML6344, F - 2016 год изготовления, V - неделя изготовления, 5B - номер партии).
 
 ![2_XPRO_Electronic_components.jpg](./img/2_XPRO_Electronic_components.jpg)
@@ -24,6 +25,7 @@ SN74HC14D HC14 инвертирующий триггер Шмитта SOIC-14 Te
 
 
 ![5_XPRO_Electronic_components.jpg](./img/5_XPRO_Electronic_components.jpg)
+
 W1 диод 1N4148 SOD-123 75V
 
 ![6_XPRO_Electronic_components.jpg](./img/6_XPRO_Electronic_components.jpg)
