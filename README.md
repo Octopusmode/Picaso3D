@@ -303,7 +303,7 @@
     * [250PRO_стекло_1.jpg](./Стёкла/img/250PRO_стекло_1.jpg)
     * [XPRO_Стекло_0.jpg](./Стёкла/img/XPRO_Стекло_0.jpg)
     * [XPRO_Стекло_1.jpg](./Стёкла/img/XPRO_Стекло_1.jpg)
-    * [XL_glass.pdf](./Стёкла/XL_glass.pdf)
+    * [XL_glass.jpg](./Стёкла/img/XL_glass.jpg)
   * [Листы_PEI](./Листы_PEI)
 
 #### :large_blue_circle: Справочное
