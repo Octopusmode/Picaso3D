@@ -25,9 +25,9 @@
 </p>
 
 <p float="left">
-  <img src="./img/16_Picaso_Designer.jpg" width="32%" title="16_Picaso_Designer"/>
-  <img src="./img/17_Picaso_Designer.jpg" width="32%" title="17_Picaso_Designer"/>
-    <img src="./img/18_Picaso_Designer.jpg" width="32%" title="18_Picaso_Designer"/>
+  <img src="./img/16_Picaso_Designer.jpg" width="38%" title="16_Picaso_Designer"/>
+  <img src="./img/17_Picaso_Designer.jpg" width="18%" title="17_Picaso_Designer"/>
+  <img src="./img/18_Picaso_Designer.jpg" width="40%" title="18_Picaso_Designer"/>
 </p>
 
 
@@ -40,9 +40,9 @@
 </p>
 
 <p float="left">
-  <img src="./img/12_Picaso_Designer.jpg" width="32%" title="12_Picaso_Designer"/>
-  <img src="./img/10_Picaso_Designer.jpg" width="32%" title="10_Picaso_Designer"/>
-  <img src="./img/11_Picaso_Designer.jpg" width="32%" title="11_Picaso_Designer"/>
+  <img src="./img/12_Picaso_Designer.jpg" width="26%" title="12_Picaso_Designer"/>
+  <img src="./img/10_Picaso_Designer.jpg" width="26%" title="10_Picaso_Designer"/>
+  <img src="./img/11_Picaso_Designer.jpg" width="46%" title="11_Picaso_Designer"/>
 </p>
 
 <p float="left">
