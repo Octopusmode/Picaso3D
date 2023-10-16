@@ -1,33 +1,31 @@
 # Designer XPRO
 
-1. XPRO_S1_вес_головы (52,1+60,8+488,8=601,7г)
-![XPRO_S1_вес_головы](./img/XPRO_S1_вес_головы.jpg)
 
-1. XPRO_распиновка_разъёмов
-
-	PHD 2.0mm https://sl.aliexpress.ru/p?key=Jjtexmu
-
-	Контакты под обжим в розетке (к вилке X1): SPHD-001T-P0.5
-
-	Статья про используемые типы разъёмов: Common JST Connector Types https://www.mattmillman.com/info/crimpconnectors/common-jst-connector-types/#other
+XPRO_S1_вес_головы (52,1+60,8+488,8=601,7г)  |
+:-------------------------:|
+![XPRO_S1_вес_головы](./img/XPRO_S1_вес_головы.jpg)|
 
 
-	![XPRO_распиновка_разъёмов](./img/XPRO_распиновка_разъёмов.jpg)
 
-1. XPRO_рельса_X
+XPRO_распиновка_разъёмов       | 
+:-------------------------:|
+PHD 2.0mm https://sl.aliexpress.ru/p?key=Jjtexmu
 
-	![XPRO_рельса_X](./img/XPRO_рельса_X.jpg)
+Контакты под обжим в розетке (к вилке X1): SPHD-001T-P0.5
 
-1. Обойма_ролика_XPRO
+Статья про используемые типы разъёмов: Common JST Connector Types https://www.mattmillman.com/info/crimpconnectors/common-jst-connector-types/#other
+:-------------------------:|
+![XPRO_распиновка_разъёмов](./img/XPRO_распиновка_разъёмов.jpg) | 
 
-	![Обойма_ролика_XPRO](./img/Обойма_ролика_XPRO.jpg)
 
+	
+XPRO_рельса_X        |  Обойма_ролика_XPRO
+:-------------------------:|:-------------------------:
+![XPRO_рельса_X](./img/XPRO_рельса_X.jpg) | ![Обойма_ролика_XPRO](./img/Обойма_ролика_XPRO.jpg)
 
 XPRO_Мотор_XY        |  XPRO_Мотор_Z
 :-------------------------:|:-------------------------:
 ![XPRO_Мотор_XY.jpg](./img/XPRO_Мотор_XY.jpg) | ![XPRO_Мотор_Z](./img/XPRO_Мотор_Z.jpg)
-
-
 
 XPRO_Вентилятор_охлаждения_детали         |  XPRO_S1_шаговый_мотор_экструдера
 :-------------------------:|:-------------------------:
