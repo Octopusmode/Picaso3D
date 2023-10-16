@@ -25,24 +25,24 @@
 </p>
 
 <p float="left">
-  <img src="./img/16_Picaso_Designer.jpg" width="33%" title="16_Picaso_Designer"/>
-  <img src="./img/17_Picaso_Designer.jpg" width="33%" title="17_Picaso_Designer"/>
-    <img src="./img/18_Picaso_Designer.jpg" width="33%" title="18_Picaso_Designer"/>
+  <img src="./img/16_Picaso_Designer.jpg" width="32%" title="16_Picaso_Designer"/>
+  <img src="./img/17_Picaso_Designer.jpg" width="32%" title="17_Picaso_Designer"/>
+    <img src="./img/18_Picaso_Designer.jpg" width="32%" title="18_Picaso_Designer"/>
 </p>
 
 
 Разное:
 
 <p float="left">
-  <img src="./img/6_Picaso_Designer.jpg" width="33%" title="6_Picaso_Designer"/>
-  <img src="./img/7_Picaso_Designer.jpg" width="33%" title="7_Picaso_Designer"/>
-  <img src="./img/8_Picaso_Designer.jpg" width="33%" title="8_Picaso_Designer"/>
+  <img src="./img/6_Picaso_Designer.jpg" width="32%" title="6_Picaso_Designer"/>
+  <img src="./img/7_Picaso_Designer.jpg" width="32%" title="7_Picaso_Designer"/>
+  <img src="./img/8_Picaso_Designer.jpg" width="32%" title="8_Picaso_Designer"/>
 </p>
 
 <p float="left">
-  <img src="./img/12_Picaso_Designer.jpg" width="33%" title="12_Picaso_Designer"/>
-  <img src="./img/10_Picaso_Designer.jpg" width="33%" title="10_Picaso_Designer"/>
-  <img src="./img/11_Picaso_Designer.jpg" width="33%" title="11_Picaso_Designer"/>
+  <img src="./img/12_Picaso_Designer.jpg" width="32%" title="12_Picaso_Designer"/>
+  <img src="./img/10_Picaso_Designer.jpg" width="32%" title="10_Picaso_Designer"/>
+  <img src="./img/11_Picaso_Designer.jpg" width="32%" title="11_Picaso_Designer"/>
 </p>
 
 <p float="left">
