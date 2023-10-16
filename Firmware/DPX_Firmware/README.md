@@ -7,6 +7,11 @@
 
 	PHD 2.0mm https://sl.aliexpress.ru/p?key=Jjtexmu
 
+	Контакты под обжим в розетке (к вилке X1): SPHD-001T-P0.5
+
+	Статья про используемые типы разъёмов: Common JST Connector Types https://www.mattmillman.com/info/crimpconnectors/common-jst-connector-types/#other
+
+
 	![XPRO_распиновка_разъёмов](./img/XPRO_распиновка_разъёмов.jpg)
 
 1. XPRO_рельса_X
