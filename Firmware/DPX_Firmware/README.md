@@ -5,7 +5,7 @@
 
 1. XPRO_распиновка_разъёмов
 
-PHD 2.0mm https://sl.aliexpress.ru/p?key=Jjtexmu
+	PHD 2.0mm https://sl.aliexpress.ru/p?key=Jjtexmu
 
 	![XPRO_распиновка_разъёмов](./img/XPRO_распиновка_разъёмов.jpg)
 
