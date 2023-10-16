@@ -11,12 +11,12 @@
 
 <p float="left">
   <img src="./img/1_Picaso_Designer.jpg" width="49%" title="1_Picaso_Designer"/>
-  <img src="./img/2_Picaso_Designer.jpg" width="49%" title="2_Picaso_Designer"/>
+  <img src="./img/20_Picaso_Designer.jpg" width="49%" title="20_Picaso_Designer"/>
 </p>
 
 <p float="left">
   <img src="./img/3_Picaso_Designer.jpg" width="49%" title="3_Picaso_Designer"/>
-  <img src="./img/20_Picaso_Designer.jpg" width="49%" title="20_Picaso_Designer"/>
+  <img src="./img/2_Picaso_Designer.jpg" width="49%" title="2_Picaso_Designer"/>
 </p>
 
 <p float="left">
