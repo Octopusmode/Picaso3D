@@ -9,10 +9,10 @@
 Шаг/профиль ремня: GT2
 
 
-![0_belt_XPRO](./img/0_belt_XPRO.jpg)
-
-![1_belt_XPRO](./img/1_belt_XPRO.jpg)
-
-![2_belt_XPRO](./img/2_belt_XPRO.jpg)
+<p float="left">
+  <img src="./img/0_belt_XPRO.jpg" width="32%" title="0_belt_XPRO"/>
+  <img src="./img/1_belt_XPRO.jpg" width="32%" title="1_belt_XPRO"/> 
+  <img src="./img/2_belt_XPRO.jpg" width="32%" title="2_belt_XPRO"/>
+</p>
 
 
