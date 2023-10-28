@@ -6,13 +6,13 @@
 
 Ссылки для покупки:
 
-0. https://sl.aliexpress.ru/p?key=HfHnxVD
+1. https://sl.aliexpress.ru/p?key=HfHnxVD
 
-0. https://a.aliexpress.com/_99EtPr
+1. https://a.aliexpress.com/_99EtPr
 
-0. Лист PEI 377x370 мм: https://item.taobao.com/item.htm?spm=a1z0d.6639537/tb.1997196601.14.4ecc7484fJOoKn&id=652817769134
+1. Лист PEI 377x370 мм: https://item.taobao.com/item.htm?spm=a1z0d.6639537/tb.1997196601.14.4ecc7484fJOoKn&id=652817769134
 
-0. https://aliexpress.ru/item/1005004136943802.html
+1. https://aliexpress.ru/item/1005004136943802.html
 
 <p float="left">
   <img src="./img/PEI_0.jpg" width="36%" title="PEI_0"/>
