@@ -35,6 +35,7 @@
   * [DES_Marlin_cfg](./Software/DES_Marlin_cfg)
   * [XPRO_Прошивки](./Software/XPRO_Прошивки)
   * [PolygonX](./Software/PolygonX)
+  * [PRO250 Klipper](https://github.com/Octopusmode/pro250)
 
 #### :large_blue_circle: STL-файлы для ремонта принтера, тюнинга, файлы для калибровки
 ---
