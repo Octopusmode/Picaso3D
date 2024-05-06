@@ -10,14 +10,14 @@
 <p float="left">
   <img src="./img/0_XL.jpg" width="32%" title="0_XL"/>
   <img src="./img/1_XL.jpg" width="32%" title="1_XL"/> 
-  <img src="./img/2_XL.jpg" width="32%" title="2_XL"/>
+  <img src="./img/5_XL.jpg" width="32%" title="5_XL"/>
 </p>
 
 
 <p float="left">
   <img src="./img/3_XL.jpg" width="32%" title="3_XL"/>
   <img src="./img/4_XL.jpg" width="32%" title="4_XL"/> 
-  <img src="./img/5_XL.jpg" width="32%" title="5_XL"/>
+  <img src="./img/2_XL.jpg" width="32%" title="2_XL"/>
 </p>
 
 
