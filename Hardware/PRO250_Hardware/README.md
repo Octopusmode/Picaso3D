@@ -1,4 +1,4 @@
-Фотографии плат принтера Picaso PRO250
+# Фотографии плат принтера Picaso PRO250
 
 <p float="left">
   <img src="./img/1_Picaso_PRO250.jpg" width="32%" title="1_Picaso_PRO250"/>

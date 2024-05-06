@@ -1,8 +1,4 @@
-# XLPRO Firmware
-
-<p float="left">
-  <img src="./img/0_XLPRO.jpg" width="99%" title="0_XLPRO"/>
-</p>
+# XLPRO Hardware
 
 
 <p float="left">
