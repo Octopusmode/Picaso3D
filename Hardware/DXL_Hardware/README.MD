@@ -30,8 +30,8 @@
 
 <p float="left">
   <img src="./img/9_XL.jpg" width="32%" title="9_XL"/>
-  <img src="./img/7_XL.jpg" width="32%" title="7_XL"/> 
-  <img src="./img/11_XL.jpg" width="32%" title="11_XL"/>
+  <img src="./img/11_XL.jpg" width="32%" title="11_XL"/> 
+  <img src="./img/7_XL.jpg" width="32%" title="7_XL"/>
 </p>
 
 
