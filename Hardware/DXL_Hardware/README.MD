@@ -23,14 +23,14 @@
 
 <p float="left">
   <img src="./img/6_XL.jpg" width="32%" title="6_XL"/>
-  <img src="./img/7_XL.jpg" width="32%" title="7_XL"/> 
+  <img src="./img/10_XL.jpg" width="32%" title="10_XL"/> 
   <img src="./img/8_XL.jpg" width="32%" title="8_XL"/>
 </p>
 
 
 <p float="left">
   <img src="./img/9_XL.jpg" width="32%" title="9_XL"/>
-  <img src="./img/10_XL.jpg" width="32%" title="10_XL"/> 
+  <img src="./img/7_XL.jpg" width="32%" title="7_XL"/> 
   <img src="./img/11_XL.jpg" width="32%" title="11_XL"/>
 </p>
 
