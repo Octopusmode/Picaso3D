@@ -11,6 +11,7 @@
 ---
   * [DES](./Hardware/DES_Hardware)
   * [DPXL](./Hardware/DPXL_Hardware)
+  * [DXL](./Hardware/DXL_Hardware)
   * [DPX](./Hardware/DPX_Hardware)
     * [DPX_DPXL_Мотор_переключения_сопел](./Hardware/DPX_Hardware/DPX_DPXL_Мотор_переключения_сопел)
     * [DPX_Electronic_components](./Hardware/DPX_Hardware/DPX_Electronic_components)

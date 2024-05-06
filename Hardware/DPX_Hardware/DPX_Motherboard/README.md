@@ -9,3 +9,7 @@
 ![3_XPRO_Motherboard](./img/3_XPRO_Motherboard.jpg)
 
 ![4_XPRO_Motherboard](./img/4_XPRO_Motherboard.jpg)
+
+![5_XPRO_Motherboard](./img/5_XPRO_Motherboard.jpg)
+
+![6_XPRO_Motherboard](./img/6_XPRO_Motherboard.jpg)
