@@ -33,6 +33,7 @@
   * [PRO250_Прошивки](./Software/PRO250_Прошивки)
   * [DES_Klipper_cfg](./Software/DES_Klipper_cfg)
   * [DES_Marlin_cfg](./Software/DES_Marlin_cfg)
+  * [DES_Прошивка](./Software/DES_Прошивка)
   * [XPRO_Прошивки](./Software/XPRO_Прошивки)
   * [PolygonX](./Software/PolygonX)
   * [PRO250 Klipper](https://github.com/Octopusmode/pro250)
