@@ -308,6 +308,7 @@
     * [XPRO_Стекло_1.jpg](./Стёкла/img/XPRO_Стекло_1.jpg)
     * [XL_glass.jpg](./Стёкла/img/XL_glass.jpg)
   * [Листы_PEI](./Листы_PEI)
+  * [Тензодатчик](./Тензодатчик)
 
 #### :large_blue_circle: Справочное
 ---
