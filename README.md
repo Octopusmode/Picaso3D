@@ -37,8 +37,8 @@
   * [DES_Прошивка](./Software/DES_Прошивка)
   * [XPRO_Прошивки](./Software/XPRO_Прошивки)
   * [PolygonX](./Software/PolygonX)
-  * [PRO250_Klipper)(external_link)](https://github.com/Octopusmode/pro250)
-  *[Утилита_для_удаленной_печати_(external_link)] (https://github.com/olegh/pxctl) 
+  * [PRO250_Klipper_(external_link)](https://github.com/Octopusmode/pro250)
+  * [Утилита_для_удаленной_печати_(external_link)](https://github.com/olegh/pxctl) 
 
 #### :large_blue_circle: STL-файлы для ремонта принтера, тюнинга, файлы для калибровки
 ---
