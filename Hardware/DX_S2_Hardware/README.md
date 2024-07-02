@@ -7,6 +7,7 @@
 </p>
 
 <p float="left">
-  <img src="./img/3_X_S2.jpg" width="49%" title="3_X_S2"/>
-  <img src="./img/4_X_S2.jpg" width="49%" title="4_X_S2"/> 
+  <img src="./img/3_X_S2.jpg" width="32%" title="3_X_S2"/>
+  <img src="./img/4_X_S2.jpg" width="32%" title="4_X_S2"/> 
+  <img src="./img/5_X_S2.jpg" width="32%" title="4_X_S2"/> 
 </p>

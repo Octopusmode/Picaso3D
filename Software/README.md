@@ -9,3 +9,9 @@
 + файлы старых версий PolygonX;
 
 + прочее, связанное с программным обеспечением принтеров.
+
+Внешние ссылки:
+
+ * PRO250_Klipper: https://github.com/Octopusmode/pro250
+
+ * Утилита_для_удаленной_печати: https://github.com/olegh/pxctl
