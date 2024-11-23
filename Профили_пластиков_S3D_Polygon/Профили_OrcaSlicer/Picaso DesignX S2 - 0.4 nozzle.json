@@ -1,0 +1,73 @@
+{
+    "auxiliary_fan": "1",
+    "before_layer_change_gcode": "",
+    "disable_m73": "1",
+    "emit_machine_limits_to_gcode": "0",
+    "enable_filament_ramming": "0",
+    "from": "User",
+    "host_type": "repetier",
+    "inherits": "MyRRF 0.4 nozzle",
+    "is_custom_defined": "0",
+    "layer_change_gcode": ";LAYER:{layer_num}\nM532 X0 L",
+    "machine_end_gcode": "G10 F1200 E16.63007; retract\nM104 S0 ; turn off temperature\nG28 X0  ; home X axis\nM84     ; disable motors\nM2\n",
+    "machine_max_acceleration_z": [
+        "100",
+        "200"
+    ],
+    "machine_max_speed_e": [
+        "10",
+        "25"
+    ],
+    "machine_max_speed_x": [
+        "200",
+        "200"
+    ],
+    "machine_max_speed_y": [
+        "200",
+        "200"
+    ],
+    "machine_max_speed_z": [
+        "10",
+        "12"
+    ],
+    "machine_pause_gcode": ";PAUSE_IN_THIS_LAYER",
+    "machine_start_gcode": "M190 S{first_layer_bed_temperature[0]}\nM109 T0 S{first_layer_temperature[0]}\nG28\nG1 Z5 F5000\nT10 I5 S1 R1 P10; I — длина прочистки, S — скорость прочистки, R — длина ретракта, P — скорость ретракта.",
+    "manual_filament_change": "1",
+    "max_layer_height": [
+        "0.2"
+    ],
+    "min_layer_height": [
+        "0.01"
+    ],
+    "name": "Picaso DesignX S2 - 0.4 nozzle",
+    "nozzle_type": "brass",
+    "print_host": "192.168.1.26",
+    "printable_area": [
+        "0x0",
+        "200x0",
+        "200x200",
+        "0x200"
+    ],
+    "printable_height": "200",
+    "printer_settings_id": "Picaso DesignX S2 - 0.4 nozzle",
+    "printhost_ssl_ignore_revoke": "1",
+    "purge_in_prime_tower": "0",
+    "retract_lift_above": [
+        "0.2"
+    ],
+    "retract_lift_enforce": [
+        "Top Only"
+    ],
+    "retraction_length": [
+        "4"
+    ],
+    "use_firmware_retraction": "1",
+    "use_relative_e_distances": "0",
+    "version": "2.1.0.1",
+    "wipe": [
+        "0"
+    ],
+    "z_hop": [
+        "0.2"
+    ]
+}
